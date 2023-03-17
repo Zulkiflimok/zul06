@@ -1,5 +1,3 @@
-# zul06
-
 TEAM TERMUX
 
 CRATOR : ZULKIFLI MOKOAGOW
@@ -57,6 +55,10 @@ pip install googletrans
 pip install Naked
 
 pip install zalgo_text
+
+pip install wikiapi
+
+pip install null
 
 python3 zul6.py
 
