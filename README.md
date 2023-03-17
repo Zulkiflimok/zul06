@@ -8,6 +8,8 @@ termux-setup-storage
 
 termux-change-repo
 
+apt install openssl
+
 pkg install update -y
 
 pkginstall upgrade -y
